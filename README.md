@@ -1,5 +1,5 @@
 # Shoes Island
-Shoes Island is an Android app made with React-native for shoes 
+Shoes Island is an Android app made with React-native for buying/selling shoes 
 
 [Watch app demo](https://drive.google.com/file/d/1AZ5E_8KYoOXHZTItms-C8Ot9mpK9Jpla/view?usp=sharing)
 
